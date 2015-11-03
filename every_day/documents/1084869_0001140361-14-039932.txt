@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001140361-14-039932.txt : 20141103
+<SEC-HEADER>0001140361-14-039932.hdr.sgml : 20141103
+<ACCEPTANCE-DATETIME>20141103195521
+ACCESSION NUMBER:		0001140361-14-039932
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20141030
+FILED AS OF DATE:		20141103
+DATE AS OF CHANGE:		20141103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1 800 FLOWERS COM INC
+		CENTRAL INDEX KEY:			0001084869
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
+		IRS NUMBER:				113117311
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0627
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1600 STEWART AVE
+		CITY:			WESTBURY
+		STATE:			NY
+		ZIP:			11590
+		BUSINESS PHONE:		5162376000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE OLD COUNTRY ROAD
+		STREET 2:		SUITE 500
+		CITY:			CARLE PLACE
+		STATE:			NY
+		ZIP:			11514
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NANCE MARK
+		CENTRAL INDEX KEY:			0001473993
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26841
+		FILM NUMBER:		141190830
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE OLD COUNTRY ROAD
+		STREET 2:		SUITE 500
+		CITY:			CARLE PLACE
+		STATE:			NY
+		ZIP:			11514
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2014-10-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001084869</issuerCik>
+        <issuerName>1 800 FLOWERS COM INC</issuerName>
+        <issuerTradingSymbol>FLWS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001473993</rptOwnerCik>
+            <rptOwnerName>NANCE MARK</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE OLD COUNTRY ROAD, SUITE 500</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CARLE PLACE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>11514</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President, BloomNET</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2014-10-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4635</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>8.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>227861</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Transaction is deemed a disposition that is exempt under Section 16(b) of the Exchange Act consisting of a withholding for tax purposes of shares of Common Stock by the Company upon the vesting of restricted shares of Common Stock.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/Mark Nance</signatureName>
+        <signatureDate>2014-11-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

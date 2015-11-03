@@ -1,0 +1,10 @@
+1 800 FLOWERS COM INC|4|1084869|20141103|C:\Users\zacharybeaver\Documents\Github_stuffs\web_scraping\edgar\every_day\documents\1084869_0001140361-14-039932.txt
+1 800 FLOWERS COM INC|4|1084869|20141103|C:\Users\zacharybeaver\Documents\Github_stuffs\web_scraping\edgar\every_day\documents\1084869_0001140361-14-039934.txt
+1 800 FLOWERS COM INC|4|1084869|20141103|C:\Users\zacharybeaver\Documents\Github_stuffs\web_scraping\edgar\every_day\documents\1084869_0001140361-14-039937.txt
+1 800 FLOWERS COM INC|4|1084869|20141103|C:\Users\zacharybeaver\Documents\Github_stuffs\web_scraping\edgar\every_day\documents\1084869_0001140361-14-039939.txt
+1 800 FLOWERS COM INC|4|1084869|20141103|C:\Users\zacharybeaver\Documents\Github_stuffs\web_scraping\edgar\every_day\documents\1084869_0001140361-14-039942.txt
+1 800 FLOWERS COM INC|4|1084869|20141103|C:\Users\zacharybeaver\Documents\Github_stuffs\web_scraping\edgar\every_day\documents\1084869_0001140361-14-039945.txt
+1st United Bancorp, Inc.|4|1415277|20141103|C:\Users\zacharybeaver\Documents\Github_stuffs\web_scraping\edgar\every_day\documents\1415277_0001181431-14-035195.txt
+1st United Bancorp, Inc.|4|1415277|20141103|C:\Users\zacharybeaver\Documents\Github_stuffs\web_scraping\edgar\every_day\documents\1415277_0001181431-14-035196.txt
+1st United Bancorp, Inc.|4|1415277|20141103|C:\Users\zacharybeaver\Documents\Github_stuffs\web_scraping\edgar\every_day\documents\1415277_0001181431-14-035197.txt
+1st United Bancorp, Inc.|4|1415277|20141103|C:\Users\zacharybeaver\Documents\Github_stuffs\web_scraping\edgar\every_day\documents\1415277_0001181431-14-035198.txt
